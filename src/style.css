@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.table{
+    border: 5px solid rgb(110, 100, 100);
+    border-radius: 10px;
+    margin: 5px;
+    overflow: auto;
+    background-color: azure;
+    
+
+}
+.search-input{
+    width: 500px;
+}
+
+.box{
+    background-color: aliceblue;
+}
