@@ -73,8 +73,6 @@ function App() {
                 <TableCell>{item.protocol}</TableCell>
                 <TableCell>{item.geo_location}</TableCell>
                 <TableCell>{item.user_role}</TableCell>
-
-                {/* Add more cells for additional fields */}
               </TableRow>
             ))}
           </TableBody>
